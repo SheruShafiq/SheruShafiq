@@ -1,4 +1,4 @@
-# Hi there, I'm Sheru Shafiq! 👋
+# Hi there, name's Sheru 👋
 
 I'm a full-stack software developer with a passion for building applications. Here, you'll see everything from weird tools, insane web apps that should have been way more simple, and the weirdest solutions achieved through the most "WHY WOULD YOU DO IT THAT WAY" methods.
 
