@@ -14,5 +14,6 @@ I'm a full-stack software developer with a passion for building applications. He
 ## Get in Touch
 - LinkedIn: [linkedin.com/in/sherushfq/](https://www.linkedin.com/in/sherushfq/)
 - Twitter (X): [x.com/SheruJGR](https://x.com/SheruJGR)
+- My Company [Metanoia WebWorks](https://metanoiawebworks.com)
 
 Thanks for stopping by my GitHub—feel free to explore my work or reach out! I'm super relaxed and open to collaboration, so let's build awesome things together.
